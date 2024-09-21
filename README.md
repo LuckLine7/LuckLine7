@@ -30,6 +30,3 @@ $touch $cd $mkdir $cat $git reset $git checkout
 - Security
 - Governance
 - Manageability
-=======
-```
->>>>>>> fb9d818b8ac9d2554fafd13b5300235fb99f5667
