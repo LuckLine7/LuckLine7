@@ -19,3 +19,13 @@ $git clone $git log $git pull $git config
 $git status $git add $git push $git commit
 $touch $cd $mkdir $cat $git reset $git checkout
 ```
+### 21/09
+## Benefits of Cloud
+- High availability
+- Scalability
+- Elasticity
+- Reliability
+- Predictability
+- Security
+- Governance
+- Manageability
