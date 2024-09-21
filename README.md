@@ -18,6 +18,7 @@
 $git clone $git log $git pull $git config
 $git status $git add $git push $git commit
 $touch $cd $mkdir $cat $git reset $git checkout
+<<<<<<< HEAD
 ```
 ### 21/09
 ## Benefits of Cloud
@@ -29,3 +30,6 @@ $touch $cd $mkdir $cat $git reset $git checkout
 - Security
 - Governance
 - Manageability
+=======
+```
+>>>>>>> fb9d818b8ac9d2554fafd13b5300235fb99f5667
